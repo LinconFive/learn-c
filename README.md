@@ -1,5 +1,5 @@
 # learn-c
-- ![#9900c5](https://placehold.it/15/9900c5?text=+) [learn-c](https://github.com/LinconFive/learn-c/)
+- ![#9900c5](https://placehold.it/15/9900c5?text=+) [learn-c](https://LinconFive.github.io/learn-c/)
 - ![#157500](https://placehold.it/15/157500?text=+) [so](https://stackoverflow.com/users/5203458/linconfive)
 
 # The MIT License (MIT)
